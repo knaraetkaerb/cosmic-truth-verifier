@@ -1,0 +1,25 @@
+{
+  "name": "cosmic-truth-verifier",
+  "version": "1.0.0",
+  "description": "Verifies cosmic truths, employing advanced algorithms to decode the mysteries of the universe.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/cosmic-truth-verifier"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "oracle-sky-network": "1.0.0",
+    "phantom-code-journey": "1.0.0",
+    "body-parser": "1.0.0",
+    "bluebird": "1.0.0",
+    "webpack-cli": "1.0.0",
+    "react": "1.0.0"
+  }
+}
